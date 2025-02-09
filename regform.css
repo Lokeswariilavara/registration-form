@@ -1,0 +1,25 @@
+body{
+  background-color: aliceblue;
+  text-align: center;
+  margin: 50px;
+}
+form{
+  border: 1px solid;
+  position: absolute;
+    top: 10%;
+    bottom:20%;
+    left:20%;
+    right: 20%;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+h1{
+  background-color: aqua;  
+}
+table{
+    border-style: dashed;
+}
+button{
+   background-color:blue ;
+   color: white;
+}
